@@ -1,14 +1,14 @@
-# Amine Guizani 👋🏽
+# Hi, I'm Amine Guizani! <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50">
 
 ### A french developer student !
 - 🔭 I’m currently working on various projects which will arrive very soon ...
 - 👨‍🎓 I'm studying at [EPITA][epilink].
 - ⚡ Fun fact: I'm a music producer & beatmaker
 
-### Contact me :
+### 📫 How to reach me:
 Fill
 
-### Languages and Tools :
+### Languages and Tools:
 Fill
 <!--
 **amine-guizani/amine-guizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
