@@ -7,8 +7,6 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
-[![Instagram Follow](https://img.shields.io/instagram/follow/weezbeatz?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
-
 <!--
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
@@ -31,12 +29,18 @@ const amine = {
 ```
 
 ### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="50"> How to reach me:
-Fill
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
 [epilink]: https://www.epita.fr/
-
+[website]: https://amine-guizani.github.io/tg-website/
+[twitter]: https://twitter.com/weezbeatsprod
+[linkedin]: https://fr.linkedin.com/
+[instagram]: https://www.instagram.com/weezbeatz/
 
 
 <!--
