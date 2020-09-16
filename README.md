@@ -1,4 +1,4 @@
-# Hi, I'm Amine Guizani! <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="50">
+# Hi, I'm Amine Guizani! <img src="https://media.giphy.com/media/Rk1eprpLXpMiYuwK1g/giphy.gif" width="50">
 
 ### A french developer student !
 - 🔭 I’m currently working on various projects which will arrive very soon ...
