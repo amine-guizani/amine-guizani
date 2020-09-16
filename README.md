@@ -32,8 +32,15 @@ const amine = {
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+
 ---
 
+### <img src="https://media.giphy.com/media/hQXYuHHarsy01bH1gv/giphy.gif" width="50"> My Github Stats ...
+
+
+
+
+<!--LINKS -->
 [epilink]: https://www.epita.fr/
 [website]: https://amine-guizani.github.io/tg-website/
 [twitter]: https://twitter.com/weezbeatsprod
