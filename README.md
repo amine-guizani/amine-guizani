@@ -5,13 +5,10 @@
 <p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>I’m currently working on various <a href="">projects</a> (which will arrive soon) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
 <!--
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
 -->
+
 ### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me...
 ```javascript
 const amine = {
@@ -34,6 +31,7 @@ const amine = {
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
 ---
 
 [epilink]: https://www.epita.fr/
