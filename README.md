@@ -1,6 +1,9 @@
 # Hi, I'm Amine Guizani! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="40">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
+---
+---
+
 ### A french student developer !
 <p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>I’m currently working on various <a href="">projects</a> (which will arrive soon) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
