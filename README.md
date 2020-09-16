@@ -26,7 +26,7 @@ const amine = {
 ```
 
 ### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="50"> How to reach me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://media.giphy.com/media/TLPNXvh24e7okAeWrg/giphy.gif"/>][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -52,19 +52,3 @@ const amine = {
 [twitter]: https://twitter.com/weezbeatsprod
 [linkedin]: https://fr.linkedin.com/
 [instagram]: https://www.instagram.com/weezbeatz/
-
-
-<!--
-**amine-guizani/amine-guizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
