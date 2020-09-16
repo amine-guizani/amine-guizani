@@ -2,7 +2,7 @@
 
 ### A french developer student !
 - 🔭 I’m currently working on various projects which will arrive very soon ...
-- 👨‍🎓 I'm studying at [EPITA][epita].
+- 👨‍🎓 I'm studying at [EPITA][https://www.epita.fr/].
 - ⚡ Fun fact: I'm a music producer & beatmaker
 
 ### Contact me :
