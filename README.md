@@ -36,6 +36,7 @@ const amine = {
 ---
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats ...
+![Github Stat](https://github-readme-stats-git-master.amine-guizani.vercel.app//api?username=amine-guizani&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true)
 
 
 
