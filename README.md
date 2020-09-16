@@ -1,7 +1,9 @@
-# Amine Guizani 👋
+# Amine Guizani 👋🏽
 
-### French developer student
-Fill
+### A french developer student !
+- 🔭 I’m currently working on various projects which will arrive very soon ...
+- 👨‍🎓 I'm studying at [EPITA][epita].
+- ⚡ Fun fact: I'm a music producer & beatmaker
 
 ### Contact me :
 Fill
