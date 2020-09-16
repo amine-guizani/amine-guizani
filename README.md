@@ -26,7 +26,7 @@ const amine = {
 }
 ```
 
-### 📫 How to reach me:
+### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="60"> How to reach me:
 Fill
 <!--
 **amine-guizani/amine-guizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
