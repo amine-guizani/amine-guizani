@@ -1,4 +1,10 @@
-### Hi there 👋
+# Amine Guizani 👋
+
+### French developer student
+
+## Contact me :
+
+## Languages and Tools :
 
 <!--
 **amine-guizani/amine-guizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
