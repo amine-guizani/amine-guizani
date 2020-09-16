@@ -2,7 +2,7 @@
 
 ### A french developer student !
 - 🔭 I’m currently working on various projects which will arrive very soon ...
-- 👨‍🎓 I'm studying at [EPITA][https://www.epita.fr/].
+- 👨‍🎓 I'm studying at [EPITA][epilink].
 - ⚡ Fun fact: I'm a music producer & beatmaker
 
 ### Contact me :
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[epilink]: https://www.epita.fr/
