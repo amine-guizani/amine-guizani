@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 ### A french student developer !
-<p><em>I'm studying at <a href="http://www.unb.br">EPITA </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>I’m currently working on various <a href="#">projects</a> (which will arrive soon) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -18,12 +18,12 @@ const amine = {
   code: [Javascript, HTML, CSS, C, C#, Python, OCaml],
   tools: [React, Node, VSCode, Django, Rider, Unity, Terminal],
   projectGroup: {
-                        group-name: "Tungsten Games",
+                        groupName: "Tungsten Games",
                         project: "Project Arena",
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- fun-fact: "I'm a music producer & beatmaker",
- life-philosophy: "I only have time for cofee"
+ funFact: "I'm a music producer & beatmaker",
+ lifePhilosophy: "I only have time for cofee"
 }
 ```
 
