@@ -35,7 +35,7 @@ const amine = {
 
 ---
 
-### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="50"> My Github Stats ...
+### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats ...
 
 
 
