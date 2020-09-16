@@ -16,7 +16,7 @@
 const amine = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C, C#, Python, OCaml],
-  tools: [React, Node, VSCode, Styled-Components, Django, Rider, Unity, Terminal],
+  tools: [React, Node, VSCode, Django, Rider, Unity, Terminal],
   projectGroup: {
                         group-name: "Tungsten Games",
                         project: "Project Arena",
