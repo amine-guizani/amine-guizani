@@ -26,10 +26,10 @@ const amine = {
 ```
 
 ### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="50"> How to reach me:
-[<img align="left" width="50px" src="https://media.giphy.com/media/TLPNXvh24e7okAeWrg/giphy.gif"/>][website]
-[<img align="left" width="50px" src="https://media.giphy.com/media/c6VX5xQaFvjMfLxoUE/giphy.gif" />][twitter]
-[<img align="left" width="50px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />][linkedin]
-[<img align="left" width="50px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
