@@ -6,7 +6,7 @@
 </br>I’m currently working on various <a href="">projects</a> (which will arrive soon) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
+[![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=B8B8B8&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
 
 <!--
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
