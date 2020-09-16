@@ -11,7 +11,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 -->
-### About me...
+### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> About me...
 ```javascript
 const amine = {
   pronouns: "he" | "him",
@@ -22,11 +22,12 @@ const amine = {
                         project: "Project Arena",
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- fun-fact: "I'm a music producer & beatmaker"
+ fun-fact: "I'm a music producer & beatmaker",
+ life-philosophy: "I only have time for cofee"
 }
 ```
 
-### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="60"> How to reach me:
+### <img src="https://media.giphy.com/media/S9iQrwkYdb7cjA15UE/giphy.gif" width="50"> How to reach me:
 Fill
 <!--
 **amine-guizani/amine-guizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
