@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 ### A french student developer !
-<p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>I’m currently working on various <a href="">projects</a> (which will arrive soon) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a>
+</br>I’m currently working on various <a href="">projects</a> (which will arrive soon) 
 </em></p>
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
@@ -21,7 +21,7 @@ const amine = {
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
  funFact: "I'm a music producer & beatmaker",
- lifePhilosophy: "I only have time for cofee"
+ lifePhilosophy: "I only have time for coffee"
 }
 ```
 
