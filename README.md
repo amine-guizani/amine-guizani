@@ -3,7 +3,7 @@
 
 ### A french student developer !
 <p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a>
-</br>I’m currently working on various <a href="">projects</a> (which will arrive soon) 
+</br>I’m currently working on various <a href="">projects</a>
 </em></p>
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
@@ -17,10 +17,10 @@ const amine = {
   tools: [React, Node, VSCode, Django, Rider, Unity, Terminal],
   projectGroup: {
                         groupName: "Tungsten Games",
-                        project: "Project Arena",
+                        project: "Project Arena", "OCR"
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- funFact: "I'm a music producer & beatmaker",
+ funFact: "I'm also a music producer & beatmaker",
  lifePhilosophy: "I only have time for coffee"
 }
 ```
