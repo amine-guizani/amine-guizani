@@ -1,13 +1,13 @@
-# Hi, I'm Amine Guizani! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="40">
+# Hi, I'm Amine Guizani!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 ### A french student developer !
 <p><em>I'm studying at <a href="https://www.epita.fr/">EPITA </a>
 </br>I’m currently working on various <a href="">projects</a>
 </em></p>
-<!--
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/weezbeatsprod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famine-guizani&screen_name=weezbeatsprod)
--->
+
 
 ### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me...
 ```javascript
